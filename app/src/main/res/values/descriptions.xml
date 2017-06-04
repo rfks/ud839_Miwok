@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+
+          2017-06-03 RK: trying to transform miwok app to tourguide app
+-->
+<resources>
+
+    <!--These are the descriptions of the locations shown in the app.-->
+
+    <string name="desc_church_ann">St. Ann\'s Church, Dawson Street, in Dublin, Ireland, was built in the early 18th century following the establishment of the Anglican parish in 1707.</string>
+
+    <string name="desc_church_christ">Christ Church Cathedral is the cathedral of the United Dioceses of Dublin and Glendalough and the cathedral of the Ecclesiastical province of the United Provinces of Dublin and Cashel in the Church of Ireland.</string>
+
+    <string name="desc_church_audoen">St Audoen\'s is the church of the parish of St Audoen that is located south of the River Liffey at Cornmarket in Dublin, Ireland. The parish is in the Roman Catholic Archdiocese of Dublin. There is an Anglican church of the same name adjacent to it.</string>
+
+    <string name="desc_church_church">Sympathetic conversion of imposing church with cafe/bar and Irish restaurant surrounded by terraces.</string>
+
+    <string name="desc_church_patrick">Saint Patrick\'s Cathedral in Dublin, Ireland, founded in 1191, is the National Cathedral of the Church of Ireland. With its 43-metre spire, St. Patrick\'s is the tallest church in Ireland and the largest.</string>
+
+    <string name="desc_church_tourist">A former Dublin church close to the bottom of Grafton Street. The building dates from 1860 and was converted into a tourist office after it ceased to be used as a church in 1993.</string>
+
+    <string name="desc_shopping_arnotts">Arnotts is the oldest and largest department store in Dublin, Ireland. Its flagship store is located on Henry Street on the north side of the city centre</string>
+
+    <string name="desc_shopping_dundrum">"Dundrum Town Centre" is a shopping centre located in Dundrum, Dublin, Ireland. It is Ireland\'s largest shopping centre with over 169 tenants, almost 140,000 square metres of floor space, and over 3,400 car parking spaces</string>
+
+    <string name="desc_shopping_grafton">Grafton Street is one of the two principal shopping streets in Dublin city centre, the other being Henry Street. It runs from Saint Stephen\'s Green in the south to College Green in the north.</string>
+
+    <string name="desc_shopping_henry">Henry Street is located on Dublin\'s Northside and is one of the two principal shopping streets of Dublin, running from the Spire of Dublin and the General Post Office on O\'Connell Street in the east to Liffey Street in the west.</string>
+
+    <string name="desc_shopping_liffey">Liffey Valley Shopping Centre is a shopping centre located in Clondalkin in Dublin. The centre opened on October 14, 1998 and the centre is located at the junction of the M50 motorway and N4 road.</string>
+
+    <string name="desc_shopping_stephens">Stephen\'s Green Shopping Centre is a large indoor shopping centre located at the top of Grafton Street in the Southside of Dublin City. It is named after St. Stephen\'s Green, a nearby park.</string>
+
+    <string name="desc_museum_dublinia">Dublinia is a historical recreation museum and visitor attraction in Dublin, Ireland, focusing on the Viking and Medieval history of the city. Dublinia is located in a part of Dublin\'s Christ Church Cathedral, known as the Synod hall.</string>
+
+    <string name="desc_museum_national">The National Museum of Ireland has a strong emphasis on Irish art, culture, and natural history. It has three branches in Dublin and one in County Mayo.</string>
+
+    <string name="desc_museum_imma">The Irish Museum of Modern Art also known as IMMA, is Ireland\'s leading national institution for the collection and presentation of modern and contemporary art.</string>
+
+    <string name="desc_museum_guinness">Brewery experience telling the tale of Ireland\'s famous beer, with tastings and a rooftop bar.</string>
+
+    <string name="desc_museum_wax">The National Wax Museum Plus is a privately owned waxworks museum in Dublin, Ireland.</string>
+
+    <string name="desc_museum_transport">The National Transport Museum of Ireland is based in the grounds of Howth Castle in Ireland. The museum is located in the Heritage Depot, Howth Demesne, Howth, Ireland. 60 vehicles are currently in Howth on display.</string>
+
+    <string name="desc_museum_whiskey">Guided tours tracing the history of whiskey through interactive exhibits, plus a tasting at the end.</string>
+
+    <string name="desc_museum_kilmainham">Kilmainham Gaol is a former prison in Kilmainham, Dublin, Ireland. It is now a museum run by the Office of Public Works, an agency of the Government of Ireland.</string>
+
+    <string name="desc_park_anne">St Anne\'s Park is a public park within Dublin City Council, situated between Raheny and Clontarf, both suburbs on the northside of Dublin, Ireland.</string>
+
+    <string name="desc_park_blessington">Blessington Street Basin is a drinking reservoir in Dublin which operated from 1810 until the 1970s, serving the north city. It became a public park in 1994.</string>
+
+    <string name="desc_park_dubhlinn">Enclosed behind Dublin Castle, the Dubh Linn garden looks like a formal piece of landscaping styled with a touch of Celtic nationalism. The central lawn is circular, with smaller gardens in the corners, and it\’s accessed from either an open stretch in front of the Chester Beatty Library or through a pedestrian-scaled gate in the wall opposite the State Apartments.</string>
+
+    <string name="desc_park_iveagh">The Iveagh Gardens is a public park located between Clonmel Street and Upper Hatch Street, near the National Concert Hall in Dublin, Ireland. It is designated as a National Historic Property.</string>
+
+    <string name="desc_park_merrion">Leafy park with floral and heather gardens, playground and notable Oscar Wilde statue.</string>
+
+    <string name="desc_park_phoenix">Phoenix Park is an urban park in Dublin, Ireland, lying 2–4 km west of the city centre, north of the River Liffey. One of the largest enclosed recreational spaces within any European capital city.</string>
+
+    <string name="desc_park_stephens">St Stephen\'s Green is a city centre public park in Dublin, Ireland. The current landscape of the park was designed by William Sheppard, which officially opened to the public on Tuesday, 27 July 1880.</string>
+
+</resources>

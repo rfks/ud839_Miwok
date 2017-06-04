@@ -12,6 +12,8 @@
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
      limitations under the License.
+
+          2017-06-03 RK: trying to transform miwok app to tourguide app
 -->
 <resources>
     <!-- Primary color of the app (shown in the app bar) -->
@@ -20,18 +22,15 @@
     <!-- Primary dark color of the app (shown in the status bar) -->
     <color name="primary_dark_color">#2F1D1A</color>
 
-    <!-- Background color for app -->
-    <color name="tan_background">#FFF7DA</color>
+    <!-- Background color for the museums category -->
+    <color name="category_museums">#006400</color>
 
-    <!-- Background color for the numbers category -->
-    <color name="category_numbers">#FD8E09</color>
+    <!-- Background color for the shopping category -->
+    <color name="category_shopping">#006400</color>
 
-    <!-- Background color for the family members category -->
-    <color name="category_family">#379237</color>
+    <!-- Background color for the churches category -->
+    <color name="category_churches">#006400</color>
 
-    <!-- Background color for the colors category -->
-    <color name="category_colors">#8800A0</color>
-
-    <!-- Background color for the phrases category -->
-    <color name="category_phrases">#16AFCA</color>
+    <!-- Background color for the parks category -->
+    <color name="category_parks">#006400</color>
 </resources>
